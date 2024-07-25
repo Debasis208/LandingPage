@@ -99,6 +99,9 @@ button{
     cursor: pointer;
     background: linear-gradient(to top, red, yellow)
 }
+.subscribe_button:hover, .second_subscribe_button:hover{
+    background: linear-gradient(to top, rgb(224, 75, 75), rgb(221, 221, 87))
+}
 .second_subscribe_button{
     display: none;
 }
